@@ -24,4 +24,11 @@
 
 
 ### 5. Expose this node port to your laptop via configuration of the kind cluster and re-creation
+![alt text](<screenshots/5/Знімок екрана з 2024-06-27 23-29-16.png>)
+![alt text](<screenshots/5/Знімок екрана з 2024-06-27 23-30-55.png>)
+![alt text](<screenshots/5/Знімок екрана з 2024-06-27 23-32-16.png>)
+
+
 ### 6. Connect to service via this exposed port without port-forward
+![alt text](<screenshots/6/Знімок екрана з 2024-06-27 23-33-07.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-27 23-43-07.png>)
