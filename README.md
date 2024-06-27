@@ -7,6 +7,11 @@
 
 
 ### 2. Create ClusterIP service for this deployment
+![alt text](<screenshots/2/Знімок екрана з 2024-06-27 15-04-05.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-06-27 15-05-37.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-06-27 15-06-47.png>)
+
+
 ### 3. Use port-forward to connect to it
 ### 4. Configure service as NodePort
 ### 5. Expose this node port to your laptop via configuration of the kind cluster and re-creation
