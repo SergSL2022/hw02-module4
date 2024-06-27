@@ -19,5 +19,9 @@
 
 
 ### 4. Configure service as NodePort
+![alt text](<screenshots/4/Знімок екрана з 2024-06-27 22-34-44.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-06-27 22-37-14.png>)
+
+
 ### 5. Expose this node port to your laptop via configuration of the kind cluster and re-creation
 ### 6. Connect to service via this exposed port without port-forward
